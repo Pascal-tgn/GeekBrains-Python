@@ -1,0 +1,10 @@
+John 23000
+Alex 21000
+James 19500
+Michael 31500
+Kate 18000
+Julia 45000
+Sam 28500
+Dean 30000
+Juan 11000
+Elizabeth 100000

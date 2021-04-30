@@ -1,0 +1,4 @@
+Mathematics: 10(L) - 10(P)
+Physics: 20(L) - 5(P)
+Geography: 30(L)
+Programming: 25(P)
